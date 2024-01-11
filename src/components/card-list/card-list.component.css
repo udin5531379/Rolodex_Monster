@@ -1,0 +1,7 @@
+.monster-container-main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 80rem;
+    margin: 0 auto;
+    grid-gap: 10px
+}

@@ -1,0 +1,13 @@
+.monster-container-item{
+    color: rgb(39, 43, 48);
+    background-color: rgb(242, 242, 213);
+    margin: 1rem;
+    padding: 2rem;
+    transition: transform 0.25s ease-out;
+    border-radius: 2rem;
+    text-align: center;
+}
+
+.monster-container-item:hover{
+    transform:scale(1.05);
+}
